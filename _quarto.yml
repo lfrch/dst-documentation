@@ -6,7 +6,7 @@ execute:
 
 book:
   page-navigation: true
-  title: "Template"
+  title: "Data Storytelling - Projekt Dokumentation"
   site-url: "https://lfrch.github.io/dst-documentation/" # replace ORGNAME and REPONAME
   repo-url: https://github.com/lfrch/dst-documentation # replace ORGNAME and REPONAME
   repo-actions: [edit, issue]
